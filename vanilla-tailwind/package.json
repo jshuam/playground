@@ -1,0 +1,17 @@
+{
+  "name": "vanilla-tailwind",
+  "version": "1.0.0",
+  "description": "Playground for testint tailwind with vanilla html",
+  "main": "index.js",
+  "dependencies": {
+    "autoprefixer": "^9.6.5",
+    "postcss-cli": "^6.1.3",
+    "tailwindcss": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "postcss css/tailwind.css -o public/build/tailwind.css"
+  },
+  "author": "",
+  "license": "ISC"
+}
