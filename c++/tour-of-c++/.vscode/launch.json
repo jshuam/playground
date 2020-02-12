@@ -11,7 +11,8 @@
             "program": "${workspaceRoot}/bin/${fileBasenameNoExtension}",
             "args": [],
             "cwd": "${workspaceRoot}",
-            "preLaunchTask": "Build (Debug)"
+            "preLaunchTask": "Build (Debug)",
+            "internalConsoleOptions": "neverOpen"
         }
     ]
 }
