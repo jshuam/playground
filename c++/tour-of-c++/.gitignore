@@ -1,0 +1,6 @@
+# Mac OS specific files
+.DS_Store
+*.DSYM
+
+# General
+/bin
